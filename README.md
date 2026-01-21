@@ -92,6 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [Jesty2664](https://twitter.com/yourusername)
 
-Project Link: [https://github.com/yourusername/cipher-wheel](https://github.com/yourusername/cipher-wheel)
+Project Link: [https://github.com/Jesty2664/cipher-wheel](https://github.com/Jesty2664/Cipher-wheel)
